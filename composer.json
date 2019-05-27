@@ -41,7 +41,7 @@
         "elasticsearch/elasticsearch": "^6.0",
         "friendsofsymfony/user-bundle": "^2.2@dev",
         "guzzlehttp/guzzle": "^6.0",
-        "jangregor/phpstan-prophecy": "^0.3",
+        "jangregor/phpstan-prophecy": "^0.3 || ^0.4",
         "justinrainbow/json-schema": "^5.0",
         "nelmio/api-doc-bundle": "^2.13.3",
         "phpdocumentor/reflection-docblock": "^3.0 || ^4.0",
