@@ -38,7 +38,7 @@
         "doctrine/mongodb-odm": "^2.0.0@beta",
         "doctrine/mongodb-odm-bundle": "^4.0.0@beta",
         "doctrine/orm": "^2.6.3",
-        "elasticsearch/elasticsearch": "^6.0",
+        "elasticsearch/elasticsearch": "^6.0 || ^7.0",
         "friendsofsymfony/user-bundle": "^2.2@dev",
         "guzzlehttp/guzzle": "^6.0",
         "jangregor/phpstan-prophecy": "^0.3",
