@@ -72,7 +72,7 @@
         "symfony/framework-bundle": "^4.2",
         "symfony/mercure-bundle": "*",
         "symfony/messenger": "^4.2",
-        "symfony/phpunit-bridge": "^3.4.5 || ^4.0.5",
+        "symfony/phpunit-bridge": "^3.4.5 || ^4.0.5 || ^5.0.0",
         "symfony/routing": "^3.4 || ^4.0",
         "symfony/security": "^3.4 || ^4.0",
         "symfony/security-bundle": "^3.4 || ^4.0",
