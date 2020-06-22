@@ -80,7 +80,7 @@
         "symfony/validator": "^3.4 || ^4.0",
         "symfony/web-profiler-bundle": "^4.2",
         "symfony/yaml": "^3.4 || ^4.0",
-        "webonyx/graphql-php": ">=0.13 <1.0"
+        "webonyx/graphql-php": ">=0.13 <15.0"
     },
     "conflict": {
         "doctrine/common": "<2.7",
